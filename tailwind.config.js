@@ -14,6 +14,9 @@ export default {
           4: "#7ADB78",
           5: "#858DFF",
           6: "#FF98E2",
+          'light-green': '#a8d5ba',
+          'saffron': '#f4c542',
+          'blue-300': '#a2c2e0',
         },
         stroke: {
           1: "#26242C",

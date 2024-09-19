@@ -19,10 +19,10 @@
 
 @layer base {
   body {
-    @apply font-sans bg-n-8 text-n-1 text-base;
+    @apply font-sans bg-gradient-to-r from-green-300 via-blue-500  to-white text-n-8 text-base;
   }
 }
-
+/* font-sans bg-n-8 text-n-1 text-base; */
 .rotate-45 {
   @apply rotate-[45deg]
 }
@@ -86,3 +86,5 @@
 .-rotate-360 {
   @apply rotate-[-360deg]
 }
+
+
